@@ -40,7 +40,9 @@
 🛠️Tools & Technologies
 
    > SQL
+
    > EXCEL
+
    > Power Bi
 
 ♂️Dashboard Structure

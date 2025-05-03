@@ -6,6 +6,8 @@
 
    Main Objective for this project To find Unique Values in the Data set.
 
+   Creating Visualizations for the dataset to understand clearly for the Business Purpose to take Business Decisions.  
+
 🎯Project Overview
 
   First of all i will download the dataset what i want.using Kaggle website.

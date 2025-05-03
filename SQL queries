@@ -1,0 +1,19 @@
+#create the database to store the data in that database.
+
+>>Create Database Project4
+
+#Retrieve the data using Select Statement
+
+>>Select * from mobile_sales_data(table_name)
+
+#Here we have to retrieve the unique values using Distinct keyword
+
+>>Select Distinct(Product) from mobile_sales_data
+
+>>Select Distinct(RAM) from mobile_sales_data
+
+#Here we will used  Group  by function this is used for unique values whenever we have to use aggregate function that time we used the Group by this is used fro to find unique values.
+
+>>Select Product,sum(Quantity_sold) from mobile_sales_data 
+
+  group by Product.
